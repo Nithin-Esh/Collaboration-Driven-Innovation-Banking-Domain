@@ -11,7 +11,7 @@
 - Assisted in **ETL pipeline support**, resolved SaaS & API integration issues.
 - Utilized Unix/Linux commands for log analysis and troubleshooting.
 - Developed **Python automation scripts** reducing manual work by 30%.
-- Created SOPs, tech guides, and participated in cross-functional stakeholder collaboration.
+- Created SOPs, tech guides and participated in cross-functional stakeholder collaboration.
 - Drove continuous improvements resulting in 20% efficiency gain in incident handling.
 
 ---
